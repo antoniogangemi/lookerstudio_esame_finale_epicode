@@ -8,6 +8,8 @@ ESERCITAZIONE FESTIVAL DI SANREMO
 Di seguito l'URL del report Google Looker Studio e in allegato lo stesso report in formato PDF: 
 https://lookerstudio.google.com/reporting/32de76e4-a43d-4b42-b415-54225e7032cc
 
+Copia di riserva della versione PDF: https://drive.google.com/file/d/1M0QeUJ5-ynaTs4OQTv3H9oJ74Ni00B51/view?usp=sharing 
+
 (NB: La slide relativa a Eurovision a pagina 11 ha qualche dato accavallato per una mancanza tecnica di Looker Studio che non permette di inclinare i testi)
 
 
